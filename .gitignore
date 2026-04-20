@@ -21,6 +21,9 @@ target/
 .springBeans
 .sts4-cache
 
+### Idea
+.idea/target/*.iml
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -37,4 +40,4 @@ build/
 ### Mac OS ###
 .DS_Store
 
-VerifyTest.java
+EnhancedTest.java
